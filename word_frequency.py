@@ -7,7 +7,11 @@ STOP_WORDS = [
 
 def print_word_freq(file):
     """Read in `file` and print out the frequency of words in that file."""
-    pass
+    # print(f'File name: {file}')
+    # with open(file) as open_file:
+    #     read_file = open_file.readlines()
+    # print(read_file)
+    # pass
 
 
 if __name__ == "__main__":
