@@ -49,6 +49,7 @@ def lowercase_values(var1):
         list2.append(i.lower())
 
     return list2
+# Change to list comprehension?
 
 
 # Function to remove stop words.
